@@ -18,6 +18,6 @@
 
 * GitHub Name: [ThroamaiomAdd](https://github.com/ThromamiomAdd)
 * E-mail Address: **youwlledemof@126.com**
-* Bilibili name: [LovelyのThromamiomAdd](Lovely%E3%81%AEThromamiomAdd)
+* Bilibili name: [可爱的ThromamiomAdd](https://space.bilibili.com/3546380746361278?spm_id_from=333.1007.0.0)
 
 ## At last, **Have a good day!**
