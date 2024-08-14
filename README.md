@@ -5,8 +5,7 @@
 * Birthday: **2010/06/09**
 * Personality: **Outgoing,like sjt**
 * Nationality: **Chinese**
-*Education: **2017.9~2023.7 SuiXi No.2 Primary School.
-              2023.9~Now SuiXi No.1 Junoir High School**
+*Education: **2017.9~2023.7 SuiXi No.2 Primary School.\n2023.9~Now SuiXi No.1 Junoir High School**
 * Address: **Suixi,Zhanjiang,Guangdong,China**
 * True name: **YHM**
 * Studying programing languages: **Python**
