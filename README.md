@@ -5,7 +5,8 @@
 * Birthday: **2010/06/09**
 * Personality: **Outgoing,like sjt**
 * Nationality: **Chinese**
-*Education: **2017.9~2023.7 SuiXi No.2 Primary School.\n2023.9~Now SuiXi No.1 Junoir High School**
+* Education: **2017.9~2023.7 SuiXi No.2 Primary School.**
+* Education：**2023.9~Now SuiXi No.1 Junoir High School.**
 * Address: **Suixi,Zhanjiang,Guangdong,China**
 * True name: **YHM**
 * Studying programing languages: **Python**
@@ -20,3 +21,4 @@
 * Bilibili name: [可爱的ThromamiomAdd](https://space.bilibili.com/3546380746361278?spm_id_from=333.1007.0.0)
 
 ## At last, **Have a good day!**
+## yours,**ThromamiomAdd**
