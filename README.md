@@ -3,12 +3,13 @@
 ## Personal profile:
 
 * Birthday: **2010/06/09**
-* Personality: **Outgoing,like sjt**
+* Personality: **Outgoing,a sunshine boy and a python fans**
 * Nationality: **Chinese**
 * Education: **2017.9~2023.7 SuiXi No.2 Primary School.**
 * Education：**2023.9~Now SuiXi No.1 Junoir High School.**
 * Address: **Suixi,Zhanjiang,Guangdong,China**
 * True name: **YHM**
+* My best friend: **Sjt**
 * Studying programing languages: **Python**
 ## Linguistic competence:
 
@@ -19,6 +20,7 @@
 * GitHub Name: [ThroamaiomAdd](https://github.com/ThromamiomAdd)
 * E-mail Address: **thromamiomadd2024@outlook.com**
 * Bilibili name: [可爱的ThromamiomAdd](https://space.bilibili.com/3546380746361278?spm_id_from=333.1007.0.0)
-
+* My new project:[Process Management Tools](https://github.com/thromamiomAdd/Process-Management-Tools)
+* My best friend shjt's website:[sjt](https://sjt-2024.github.io/)
 ## At last, **Have a good day!**
 ## yours,**ThromamiomAdd**
