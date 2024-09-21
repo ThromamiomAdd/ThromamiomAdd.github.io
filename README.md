@@ -21,6 +21,7 @@
 * E-mail Address: **thromamiomadd2024@outlook.com**
 * Bilibili name: [可爱的ThromamiomAdd](https://space.bilibili.com/3546380746361278?spm_id_from=333.1007.0.0)
 * My new project:[Process Management Tools](https://github.com/thromamiomAdd/Process-Management-Tools)
-* My best friend shjt's website:[sjt](https://sjt-2024.github.io/)
+* My best friend sjt's website:[sjt's website](https://sjt-2024.github.io/)
 ## At last, **Have a good day!**
-## yours,**ThromamiomAdd**
+## yours,
+## thromamiomAdd!
