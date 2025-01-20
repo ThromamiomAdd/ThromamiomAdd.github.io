@@ -6,15 +6,15 @@
 * Personality: **Outgoing,a sunshine boy and a python fans**
 * Nationality: **Chinese**
 * Education: **2017.9~2023.7 SuiXi No.2 Primary School.**
-* Education：**2023.9~Now SuiXi No.1 Junoir High School.**
+* Education：**2023.9~Now SuiXi No.1 Junior High School.**
 * Address: **Suixi,Zhanjiang,Guangdong,China**
-* True name: **YHM**
+* True name: **Unknown**
 * My best friend: **Sjt**
-* Studying programing languages: **Python**
+* Studying programing languages: **Python and C++**
+* hobbies:**Minecraft and Python**
 ## Linguistic competence:
 
-<a href="https://www.python.org"><img src="https://images.sj33.cn/uploads/202005/7-200525101140K8.png" alt="Python" width="125"></a> <a href="https://www.java.com/zh-CN/"><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java" width="125"></a><a href="https://www.java.com/zh-CN/"><img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="Java" width="100"></a>
-
+<a href="https://www.python.org"><img src="https://images.sj33.cn/uploads/202005/7-200525101140K8.png" alt="Python" width="125"></a> <a href="https://www.java.com/zh-CN/"><img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" alt="Java" width="125"></a><a href="https://www.java.com/zh-CN/">
 ## Connect with me:
 
 * GitHub Name: [ThroamaiomAdd](https://github.com/ThromamiomAdd)
@@ -22,6 +22,9 @@
 * Bilibili name: [可爱的ThromamiomAdd](https://space.bilibili.com/3546380746361278?spm_id_from=333.1007.0.0)
 * My new project:[Process Management Tools](https://github.com/thromamiomAdd/Process-Management-Tools)
 * My best friend sjt's website:[sjt's website](https://sjt-2024.github.io/)
-## At last, **Have a good day!**
-## yours,
-## thromamiomAdd!
+  ## MineCraft Events
+
+  *13:00-18:00 online
+  *Usually play:KKC
+  *ip:mc.163mc.cn
+  *my id:BingShuAdd
