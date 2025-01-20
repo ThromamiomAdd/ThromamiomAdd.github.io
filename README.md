@@ -24,7 +24,7 @@
 * My best friend sjt's website:[sjt's website](https://sjt-2024.github.io/)
   ## MineCraft Events
 
-  *13:00-18:00 online
-  *Usually play:KKC
-  *ip:mc.163mc.cn
-  *my id:BingShuAdd
+  * 13:00-18:00 online
+  * Usually play:KKC
+  * ip:mc.163mc.cn
+  * my id:BingShuAdd
