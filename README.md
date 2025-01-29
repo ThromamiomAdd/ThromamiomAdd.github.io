@@ -8,7 +8,7 @@
 * Education: **2017.9~2023.7 SuiXi No.2 Primary School.**
 * Education：**2023.9~Now SuiXi No.1 Junior High School.**
 * Address: **Suixi,Zhanjiang,Guangdong,China**
-* True name: **Unknown**
+* True name: **YHM**
 * My best friend: **Sjt**
 * Studying programing languages: **Python and C++**
 * hobbies:**Minecraft and Python**
@@ -22,9 +22,5 @@
 * Bilibili name: [可爱的ThromamiomAdd](https://space.bilibili.com/3546380746361278?spm_id_from=333.1007.0.0)
 * My new project:[Process Management Tools](https://github.com/thromamiomAdd/Process-Management-Tools)
 * My best friend sjt's website:[sjt's website](https://sjt-2024.github.io/)
-  ## MineCraft Events
-
-  * 13:00-18:00 online
-  * Usually play:KKC
-  * ip:mc.163mc.cn
-  * my id:BingShuAdd
+ ##
+  Update time:2025/1/29
